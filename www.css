@@ -1,0 +1,92 @@
+body{
+margin: 0;
+font-family: cursive;
+}
+
+header{
+display: flex;
+justify-content: space-around;
+background-color: rgba(red, green, blue, alpha);
+padding: 20px;
+}
+
+.logo{
+border-radius: 100%;
+width: 100px;
+height: 100px;
+}
+
+.nav-link,
+.btn{
+margin: 0 20px;
+font-size: 24px;
+font-weight: 700;
+color: #bd3131;
+
+}
+.btn{
+border: none;
+padding: 10px 15px;
+border-radius: 14px;
+
+}
+
+.loginBtn{
+background-color: rgb(red green blue / alpha);
+
+}
+.logoutBtn{
+background-color: brown;
+
+}
+.startingSection{
+height: 600px;
+background-image:url(https://thumbs.dreamstime.com/b/group-pets-23770942.jpg) ;
+background-size: cover;
+background-position: center;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+.mainDescription{
+width: 500px;
+background-color: rgba(red, green, blue, alpha);
+padding: 20px;
+border-radius: 14px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+}
+.aboutContent{
+    text-align: center;
+}
+
+.contactUs{
+    background-color: rgb(red green blue / alpha);
+}
+.images{
+width: 100hv;
+padding: 10px;
+background-color: rgba(red, green, blue, alpha);
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+
+}
+.catalogimg{
+width: 200px;
+height: 200px;
+border-radius: 100%;
+
+}
+
+footer{
+
+
+
+    
+}
